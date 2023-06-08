@@ -1,0 +1,1 @@
+chrome-extension://manjolceoachljppbjhfgkoomnlidkna/popup/purify.js

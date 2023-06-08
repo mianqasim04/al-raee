@@ -1,0 +1,1 @@
+chrome-extension://manjolceoachljppbjhfgkoomnlidkna/content/jquery.json2html.js
